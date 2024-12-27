@@ -17,7 +17,7 @@
         "UpdateStageName": "Server Template Config File Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://raw.githubusercontent.com/Philip0403/ETAMPConfigs/main/arma-reforgerserver1-5.json",
+        "UpdateSourceData": "https://raw.githubusercontent.com/Philip0403/AMPTemplates/main/arma-reforgerserver1-5.json",
         "UpdateSourceArgs": "AMP_serverconfig.json",
         "UpdateSourceTarget": "{{$FullRootDir}}",
         "OverwriteExistingFiles": true
